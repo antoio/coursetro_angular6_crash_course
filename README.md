@@ -1,3 +1,9 @@
+# Coursetro Angular 6 Crash course tutorial
+
+Well, this has been a lot of fun! :smile:
+
+[Go to Tutorial](https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course)
+
 # Ng6CliProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.0.
